@@ -19,7 +19,6 @@ public class Main {
             System.out.println("Месяц " + i + " сумма накоплений равна " + total + " рублей");
         }
     }
-
     public static void task2() {
         System.out.println("Задача 2");
         int i = 1;
@@ -64,7 +63,6 @@ public class Main {
             }
         }
     }
-
     public static void task6() {
         System.out.println("Задача 6");
         int salary = 15000;
